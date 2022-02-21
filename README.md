@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Bruna 👋
 
-I'm from the north of Paraná State, in Brazil, master in biology, already had my own bakery and I love tech.
+I'm from the north of Paraná State, in Brazil, masters in biology, already had my own bakery and I love tech.
 
 - 🌱 I’m currently learning **JavaScript**, **HTML/CSS**, **Java** and **SQL**.
 - 👯 I’m looking to collaborate on creating content about tech and how it changes the world.
